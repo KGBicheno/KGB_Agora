@@ -1,11 +1,10 @@
 # Python Classes
 Go to the [[Python Week 3 Main Page]] or the [[Python - Main Page]]
 Also see the [[Programming Main Page]] or the [[Main AI Page]]
-Will be an important reference for [[The Golem Project Overview]]
 
 For code examples see the [[Week3 Classes and Objects Lab]]
 
-#oop #golem #classes #programming #TensorFlow #data 
+#oop #classes #programming #TensorFlow #data 
 
 >Classes are objects, and in Python, every object has a:
 > - Type

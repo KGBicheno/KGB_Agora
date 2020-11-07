@@ -276,12 +276,6 @@ Go back to [[Master Contents Page]]
 - [[Enable_Digressions.pdf]]
 - [[Get_to_know_the_Analytics_tab.pdf]]
 
-See also the [[The Golem Project Overview]] for the ultimate implementation of this and the [[Master of Philosophy - Main Page|Master of Philosophy]].
-
-For a professionally designed workstation built for machine learning, check out the [[Professional Machine Learning Workstation - Exxact Quote]]
-
-For a discontinued project that may still be of educational value, see the [[Main Library - Chatterbot]] and [[Why I didn't use Chatterbot]].
-
-Currently my most popular bot is Floria from The AFIRM project, which you can read about at the [[AFIRM Overall Project Page]]
+See also the [[Master of Philosophy - Main Page|Master of Philosophy]].
 
 Most, it not all code is written in Python, and will link through the [[Python - Main Page]]

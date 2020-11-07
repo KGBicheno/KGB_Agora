@@ -3,7 +3,7 @@
 Go to the [[Python Week 4 Main Page]] or the [[Python - Main Page]]
 Also see the [[Programming Main Page]] or the [[Main AI Page]]
 
-Also see [[Econometrics Main Page]] or the [[The Golem Project Overview]]
+Also see [[Econometrics Main Page]]
 
 A popular library for data analysis
 

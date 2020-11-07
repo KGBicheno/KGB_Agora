@@ -2,7 +2,6 @@
 
 Go to the [[Python Week 3 Main Page]] or the [[Python - Main Page]]
 Also see the [[Programming Main Page]] or the [[Main AI Page]]
-Will be an important reference for [[The Golem Project Overview]]
 
 See the page on [[Python Classes]]
 

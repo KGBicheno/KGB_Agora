@@ -1,9 +1,7 @@
 
 # The big 5 Personality Model
 
-Go to [[The Golem Project Overview]], the [[Module 3 - Advanced Watson Services]] or the [[Main AI Page]]
-
-Also see [[AFIRM project's list of Mental Health Contacts]] and the [[Mental Health Resources Section]]
+Go to the [[Module 3 - Advanced Watson Services]] or the [[Main AI Page]]
 
 ![The Big 5 Personality Traits](https://i.imgur.com/fUrkKUk.png)
 

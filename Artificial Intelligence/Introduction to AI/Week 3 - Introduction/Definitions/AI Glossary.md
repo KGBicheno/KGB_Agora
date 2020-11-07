@@ -7,7 +7,6 @@ Relevant to:
 - [[Week 2 - Introduction]]
 - [[Week 3 - Introduction]]
 - [[Feminist Chatbot Main Page]]
-- [[GOLEM Project Page]]
 - [[Economic Indicators List]]
 
 ## A

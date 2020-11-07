@@ -31,7 +31,6 @@ Use cases:
 - [[Module 3 - Advanced Watson Services]]
 - [[Master of Philosophy - Main Page]]
 - [[Feminist Chatbot Main Page]]
-- [[The Golem Project Overview]]
 - [[Introducing AI]]
 - [[Introduction to Chatbots]]
 - [[Ideas for Newsrooms (LIST)]]

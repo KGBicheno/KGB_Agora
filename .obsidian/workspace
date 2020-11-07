@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0300d383748d0466",
+        "id": "56ceff44e7b6141a",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,11 +37,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "carrington"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -63,19 +61,33 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "bb9d0046a8b3a689",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "README.md"
+    "Programming/Python/Week2/Python Lists and Tuples.md",
+    "Programming/Python/Week2/Python Dictionaries.md",
+    "Programming/Python/Week4/Week4 Pandas Data Lab.md",
+    "Programming/Python/Week3/Week3 Classes and Objects Lab.md",
+    "Artificial Intelligence/Watson AI Overview/Module 3 - Advanced Watson AI Services/Watson Studio.md",
+    "Artificial Intelligence/Watson AI Overview/Module 4 - Use cases and case studies/Watson IBM Use Cases Certification.md",
+    "Programming/Python/Week3/Python Classes.md",
+    "Artificial Intelligence/Watson AI Overview/Module 3 - Advanced Watson AI Services/Open Source Replacements - TODO.md",
+    "Artificial Intelligence/Watson AI Overview/Module 3 - Advanced Watson AI Services/Module 3 - Advanced Watson Services.md",
+    "Artificial Intelligence/Feminist Chatbot/Feminist Internet.md"
   ]
 }
